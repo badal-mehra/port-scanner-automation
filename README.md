@@ -12,4 +12,4 @@ python port_scanner.py
 3. Enter IP or domain to scan.  
 
 ## Author:
-Created by Badal (GitHub: [your-username]) as part of learning cybersecurity automation.
+Created by Badal (GitHub: [badal-mehra]) as part of learning cybersecurity automation.
