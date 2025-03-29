@@ -11,5 +11,6 @@ python port_scanner.py
 ```
 3. Enter IP or domain to scan.  
 
+NOTE: This Automated Port Scanner & Banner Grabber only show ports between 0-100.
 ## Author:
 Created by Badal Mehra (GitHub: [badal-mehra]) as part of learning cybersecurity automation.
