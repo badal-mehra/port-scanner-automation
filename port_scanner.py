@@ -18,3 +18,4 @@ def scan_ports(target, start_port=1, end_port=100):
 if __name__ == "__main__":
     target = input("Enter target IP or domain: ")
     scan_ports(target)
+ 
