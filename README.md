@@ -14,3 +14,4 @@ python port_scanner.py
 NOTE: This Automated Port Scanner & Banner Grabber only show ports between 0-100.
 ## Author:
 Created by Badal Mehra (GitHub: [badal-mehra]) as part of learning cybersecurity automation.
+ 
